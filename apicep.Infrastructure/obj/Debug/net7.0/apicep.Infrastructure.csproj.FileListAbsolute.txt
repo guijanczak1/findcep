@@ -1,0 +1,14 @@
+E:\Projetos CSharp\apicep\apicep.Infrastructure\bin\Debug\net7.0\apicep.Infrastructure.deps.json
+E:\Projetos CSharp\apicep\apicep.Infrastructure\bin\Debug\net7.0\apicep.Infrastructure.runtimeconfig.json
+E:\Projetos CSharp\apicep\apicep.Infrastructure\bin\Debug\net7.0\apicep.Infrastructure.dll
+E:\Projetos CSharp\apicep\apicep.Infrastructure\bin\Debug\net7.0\apicep.Infrastructure.pdb
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.csproj.AssemblyReference.cache
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.AssemblyInfoInputs.cache
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.AssemblyInfo.cs
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.dll
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\refint\apicep.Infrastructure.dll
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.pdb
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\apicep.Infrastructure.genruntimeconfig.cache
+E:\Projetos CSharp\apicep\apicep.Infrastructure\obj\Debug\net7.0\ref\apicep.Infrastructure.dll

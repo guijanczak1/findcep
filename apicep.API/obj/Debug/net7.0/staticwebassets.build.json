@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8xIauq7BhfCOtJlsm66Mf8t6MQJ1rpFOQR8GecOndwQ=",
+  "Source": "apicep.API",
+  "BasePath": "_content/apicep.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

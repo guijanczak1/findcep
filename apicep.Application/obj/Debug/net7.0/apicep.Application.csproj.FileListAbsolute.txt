@@ -1,0 +1,15 @@
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.csproj.AssemblyReference.cache
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.AssemblyInfoInputs.cache
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.AssemblyInfo.cs
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.csproj.CoreCompileInputs.cache
+E:\Projetos CSharp\apicep\apicep.Application\bin\Debug\net7.0\apicep.Application.deps.json
+E:\Projetos CSharp\apicep\apicep.Application\bin\Debug\net7.0\apicep.Application.dll
+E:\Projetos CSharp\apicep\apicep.Application\bin\Debug\net7.0\apicep.Application.pdb
+E:\Projetos CSharp\apicep\apicep.Application\bin\Debug\net7.0\apicep.Infrastructure.dll
+E:\Projetos CSharp\apicep\apicep.Application\bin\Debug\net7.0\apicep.Infrastructure.pdb
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.csproj.CopyComplete
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.dll
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\refint\apicep.Application.dll
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\apicep.Application.pdb
+E:\Projetos CSharp\apicep\apicep.Application\obj\Debug\net7.0\ref\apicep.Application.dll
